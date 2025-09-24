@@ -1,0 +1,12 @@
+let a=10;
+let b=20;
+console.log("addition of A and B is:",a+b);
+console.log("subtraction of A and B is:",a-b);
+console.log("multiplication of A and B is:",a*b);
+console.log("division of A and B is:",a/b);
+console.log("modulus of A and B is:",a%b);
+console.log("power (a^b) is:",math.pow(a,b));
+console.log("square root of A is:",math.sqrt(a));
+console.log("max of A and B is:",math.max(a,b));
+console.log("min of A and B is:",math.min(a,b));
+console.log("random number(0-1):",math.random());
